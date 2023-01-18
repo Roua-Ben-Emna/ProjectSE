@@ -1,0 +1,6 @@
+true || pwd
+groups
+ls ; pwd
+echo "Hello cyrine"
+echo "Hello joumene"
+ls -al
